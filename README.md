@@ -1,2 +1,2 @@
 # reinas
-Resolución de la práctica de las 8 reinas (ampliado a NxN)
+Resolución del problema de las 8 reinas (ampliado a NxN)
